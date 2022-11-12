@@ -1,0 +1,12 @@
+{
+  "extends": "../../tsconfig.json",
+  "include": ["src/**/*"],
+  "compilerOptions": {
+    "module": "es6",
+    "outDir": "esm",
+    "lib": [
+      "scripthost",
+      "dom"
+    ]
+  }
+}

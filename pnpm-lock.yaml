@@ -1,0 +1,9 @@
+lockfileVersion: 5.4
+
+importers:
+
+  examples/browser:
+    specifiers:
+      root: link:/Users/skyfury/workspace/lagou/FrontendMonitor-C
+    dependencies:
+      root: link:../..
